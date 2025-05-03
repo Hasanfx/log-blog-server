@@ -9,7 +9,6 @@ const port: number = Number(process.env.PORT) || 4000;
 
 const corsOptions = {
     origin: "*",
-    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
 };
 server.use(cors(corsOptions));
 server.use(middleware);
