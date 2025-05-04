@@ -50,5 +50,26 @@
     { "id": 48, "text": "كل تأخير فيه خير، فتوقع الفرج." },
     { "id": 49, "text": "اغتنم الطاعات قبل الزلات." },
     { "id": 50, "text": "الحياة رحلة، والآخرة دار القرار فاستعد." }
-  ]
+  ],
+
+  "tasks":[{
+    "id": 1,
+    "title": "Task 1",
+    "isDone": false
+  },
+  {
+    "id": 3,
+    "title": "Task 3",
+    "isDone": false
+  },
+  {
+    "id": 4,
+    "title": "Task 4",
+    "isDone": true
+  },
+  {
+    "id": 5,
+    "title": "Task 5",
+    "isDone": false
+  }]
 }
